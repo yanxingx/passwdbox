@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.addCouAndPasswd).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "hehe", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "hehehehe", Toast.LENGTH_SHORT).show();
             }
         });
     }
